@@ -1,22 +1,20 @@
 
-   Copyright (C) 2019 Bartomeu Rubí, Adrián Ruiz, 
-                      Ramon Pérez, Bernardo Morcego
-
-Path-Flyer is free software; you can redistribute it and/or modify
+> Copyright (C) 2019 Bartomeu Rubí, Adrián Ruiz, Ramon Pérez, Bernardo Morcego
+> 
+> Path-Flyer is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 3, or (at your option)
 any later version.
-
-Path-Flyer is distributed in the hope that it will be useful,
+> 
+> Path-Flyer is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
+> 
+> You should have received a copy of the GNU General Public License
 along with the benchmark files.  If not, see <http://www.gnu.org/licenses/>.
- 
-Authors:
-Bartomeu Rubı́, Adrián Ruiz, Ramon Pérez, Bernardo Morcego.
+> 
+> Authors: Bartomeu Rubı́, Adrián Ruiz, Ramon Pérez, Bernardo Morcego. 
 Specific Center of Research at CS2AC in the Universitat Politècnica de Catalunya (UPC).
 Rbla Sant Nebridi 22, Terrassa (Spain). (email: tomeu.rubi, adrian.ruiz, bernardo.morcego,
 ramon.perez at upc.edu)
@@ -31,6 +29,8 @@ it has been improved and modified to have a realistic mathematical and dynamic m
 quadrotor and its environment, to implement a proper structure to solve the path following
 problem and include various path following algorithms, and to incorporate new functionalities 
 suited for the present benchmark.
+
+### Features
 
 Some key features of Path-Flyer are:
 
@@ -58,7 +58,7 @@ Hope you find it useful. If you have any doubts do not hesitate to contact us.
 
 ### Publication
 
-Note: More information about the mathematical model of the quadrotor and its environment,
+More information about the mathematical model of the quadrotor and its environment,
 the implemented path following algorithms and control structure, and the validation
 process of the Path-Flyer platform is found on the following publication:
 
