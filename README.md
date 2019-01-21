@@ -13,7 +13,9 @@
  GNU General Public License for more details.
  
 Authors:
+
 Bartomeu Rubı́, Adrián Ruiz, Bernardo Morcego, Ramon Pérez
+
 Specific Center of Research at CS2AC in the Universitat Politècnica de Catalunya (UPC).
 Rbla Sant Nebridi 22, Terrassa (Spain). (email: tomeu.rubi, adrian.ruiz, bernardo.morcego,
 ramon.perez at upc.edu)
@@ -52,10 +54,11 @@ rithm and how to incorporate new path references.
 
 Hope you find it useful. If you have any doubts do not hesitate to contact us.
 
-Note: More information about the mathematical model of the quadrotor and its environ-
-ment, the implemented path following algorithms and control structure, and the validation
+
+Note: More information about the mathematical model of the quadrotor and its environment,
+the implemented path following algorithms and control structure, and the validation
 process of the Path-Flyer platform is found on the following publication:
 
-Rubı́, B., Morcego, B., and Pérez, R. (2019). Benchmark of Quadrotor Path Following
+Rubı́, B., Ruiz, A., Morcego, B., and Pérez, R. (2019). Benchmark of Quadrotor Path Following
 Algorithms [SUBMITTED]. In 2019 15th IEEE International Conference on Control and
 Automation (ICCA).
