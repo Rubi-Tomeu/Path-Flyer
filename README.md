@@ -2,15 +2,18 @@
    Copyright (C) 2019 Bartomeu Rubí, Adrián Ruiz, 
                       Ramon Pérez, Bernardo Morcego
 
- Path-Flyer is free software; you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation; either version 2, or (at your option)
- any later version.
+Path-Flyer is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3, or (at your option)
+any later version.
 
- Path-Flyer is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+Path-Flyer is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with the benchmark files.  If not, see <http://www.gnu.org/licenses/>.
  
 Authors:
 Bartomeu Rubı́, Adrián Ruiz, Ramon Pérez, Bernardo Morcego.
@@ -20,7 +23,9 @@ ramon.perez at upc.edu)
 
 # Path-Flyer: A Benchmark of Quadrotor Path Following Algorithms
 
-The benchmark has been build upon the Quad-Sim platform¹, a quadrotor simulation
+This benchmark allows to compare multiple path following algorithms in the same scenarios with flexibility. 
+
+This benchmark has been build upon the Quad-Sim platform¹, a quadrotor simulation
 tool developed on the Drexdel University for simulation and control of quadrotors. That is,
 it has been improved and modified to have a realistic mathematical and dynamic model of the
 quadrotor and its environment, to implement a proper structure to solve the path following
