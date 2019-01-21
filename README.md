@@ -34,7 +34,7 @@ suited for the present benchmark.
 
 Some key features of Path-Flyer are:
 
-- It has a complete and validated model of the Asctec Hummingbird Quadrotor.
+- It has a complete and experimentally validated model of the Asctec Hummingbird Quadrotor.
 
 - Wind disturbance and noise on the measured states are modeled and can be customized.
 
