@@ -34,19 +34,19 @@ suited for the present benchmark.
 
 Some key features of Path-Flyer are:
 
-• It has a complete and validated model of the Asctec Hummingbird Quadrotor.
+- It has a complete and validated model of the Asctec Hummingbird Quadrotor.
 
-• Wind disturbance and noise on the measured states are modeled and can be customized.
+- Wind disturbance and noise on the measured states are modeled and can be customized.
 
-• Four path following algorithms; Non-linear Guidance Law (NLGL), Carrot-Chasing
+- Four path following algorithms; Non-linear Guidance Law (NLGL), Carrot-Chasing
 and its adaptive versions have been implemented.
 
-• Path following algorithms can be tested in diverse simulation scenarios.
+- Path following algorithms can be tested in diverse simulation scenarios.
 
-• A user interface helps the user to modify test conditions and to explore simulation
+- A user interface helps the user to modify test conditions and to explore simulation
 results.
 
-• It is modular and programmable, meaning that new path following algorithms and/or
+- It is modular and programmable, meaning that new path following algorithms and/or
 reference paths can be incorporated with ease.
 
 ### Documentation
