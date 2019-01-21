@@ -25,7 +25,7 @@ ramon.perez at upc.edu)
 
 This benchmark allows to compare multiple path following algorithms in the same scenarios with flexibility. 
 
-This benchmark has been build upon the Quad-Sim platform¹, a quadrotor simulation
+Path-Flyer has been build upon the Quad-Sim platform¹, a quadrotor simulation
 tool developed on the Drexdel University for simulation and control of quadrotors. That is,
 it has been improved and modified to have a realistic mathematical and dynamic model of the
 quadrotor and its environment, to implement a proper structure to solve the path following
