@@ -23,7 +23,7 @@ ramon.perez at upc.edu)
 
 This benchmark allows to compare multiple path following algorithms in the same scenarios with flexibility. 
 
-Path-Flyer has been build upon the Quad-Sim platform (https://github.com/dch33/Quad-Sim), a quadrotor simulation
+Path-Flyer has been build upon the [Quad-Sim](https://github.com/dch33/Quad-Sim) platform , a quadrotor simulation
 tool developed on the Drexdel University for simulation and control of quadrotors. That is,
 it has been improved and modified to have a realistic mathematical and dynamic model of the
 quadrotor and its environment, to implement a proper structure to solve the path following
@@ -51,8 +51,7 @@ reference paths can be incorporated with ease.
 
 ### Documentation
 
-In the user guide (in /Path-Flyer/Documentation/) it is found how to install the benchmark, how to use the user interface,
-how to modify parameters such as wind disturbance or noise, how to program a new algorithm and how to incorporate new path references.
+In the [User Guide](Path-Flyer/Documentation/UserGuide.pdf) it is found how to install the benchmark, how to use the user interface, how to modify parameters such as wind disturbance or noise, how to program a new algorithm and how to incorporate new path references.
 
 Hope you find it useful. If you have any doubts do not hesitate to contact us.
 
