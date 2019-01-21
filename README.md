@@ -13,7 +13,7 @@
  GNU General Public License for more details.
  
 Authors:
-Bartomeu Rubı́, Adrián Ruiz, Bernardo Morcego, Ramon Pérez.
+Bartomeu Rubı́, Adrián Ruiz, Ramon Pérez, Bernardo Morcego.
 Specific Center of Research at CS2AC in the Universitat Politècnica de Catalunya (UPC).
 Rbla Sant Nebridi 22, Terrassa (Spain). (email: tomeu.rubi, adrian.ruiz, bernardo.morcego,
 ramon.perez at upc.edu)
@@ -57,6 +57,6 @@ Note: More information about the mathematical model of the quadrotor and its env
 the implemented path following algorithms and control structure, and the validation
 process of the Path-Flyer platform is found on the following publication:
 
-Rubı́, B., Ruiz, A., Morcego, B., and Pérez, R. (2019). Benchmark of Quadrotor Path Following
+Rubı́, B., Ruiz, A., Pérez, R. and Morcego, B. (2019). Benchmark of Quadrotor Path Following
 Algorithms [SUBMITTED]. In 2019 15th IEEE International Conference on Control and
 Automation (ICCA).
