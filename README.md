@@ -13,9 +13,7 @@
  GNU General Public License for more details.
  
 Authors:
-
-Bartomeu Rubı́, Adrián Ruiz, Bernardo Morcego, Ramon Pérez
-
+Bartomeu Rubı́, Adrián Ruiz, Bernardo Morcego, Ramon Pérez.
 Specific Center of Research at CS2AC in the Universitat Politècnica de Catalunya (UPC).
 Rbla Sant Nebridi 22, Terrassa (Spain). (email: tomeu.rubi, adrian.ruiz, bernardo.morcego,
 ramon.perez at upc.edu)
