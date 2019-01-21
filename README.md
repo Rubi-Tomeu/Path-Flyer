@@ -51,7 +51,7 @@ reference paths can be incorporated with ease.
 
 ### Documentation
 
-In the [User Guide](Path-Flyer/Documentation/UserGuide.pdf) it is found how to install the benchmark, how to use the user interface, how to modify parameters such as wind disturbance or noise, how to program a new algorithm and how to incorporate new path references.
+In the [User Guide](Documentation/UserGuide.pdf) it is found how to install the benchmark, how to use the user interface, how to modify parameters such as wind disturbance or noise, how to program a new algorithm and how to incorporate new path references.
 
 Hope you find it useful. If you have any doubts do not hesitate to contact us.
 
