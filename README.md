@@ -15,9 +15,8 @@ GNU General Public License for more details.
 along with the benchmark files.  If not, see <http://www.gnu.org/licenses/>.
 > 
 > Authors: Bartomeu Rubı́, Adrián Ruiz, Ramon Pérez, Bernardo Morcego. 
-Specific Center of Research at CS2AC in the Universitat Politècnica de Catalunya (UPC).
-Rbla Sant Nebridi 22, Terrassa (Spain). (email: tomeu.rubi, adrian.ruiz, bernardo.morcego,
-ramon.perez at upc.edu)
+Specific Center of Research CS2AC at Universitat Politècnica de Catalunya (UPC).
+Rbla Sant Nebridi 22, Terrassa (Spain).
 
 ## Path-Flyer: A Benchmark of Quadrotor Path Following Algorithms
 
@@ -59,7 +58,7 @@ Hope you find it useful. If you have any doubts do not hesitate to contact us.
 
 More information about the mathematical model of the quadrotor and its environment,
 the implemented path following algorithms and control structure, and the validation
-process of the Path-Flyer platform is found on the following publication:
+process of the Path-Flyer platform in the following publication:
 
 *Rubı́, B., Ruiz, A., Pérez, R. and Morcego, B. (2019). Benchmark of Quadrotor Path Following
 Algorithms [SUBMITTED]. In 2019 15th IEEE International Conference on Control and
