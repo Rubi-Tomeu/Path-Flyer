@@ -60,6 +60,4 @@ More information about the mathematical model of the quadrotor and its environme
 the implemented path following algorithms and control structure, and the validation
 process of the Path-Flyer platform in the following publication:
 
-*Rubı́, B., Ruiz, A., Pérez, R. and Morcego, B. (2019). Benchmark of Quadrotor Path Following
-Algorithms [SUBMITTED]. In 2019 15th IEEE International Conference on Control and
-Automation (ICCA).*
+*Rubí B., Ruiz, A., Pérez, R. and Morcego, B. (2019). Path-Flyer: A Benchmark of Quadrotor Path Following Algorithms. In 2019 15th IEEE International Conference on Control and Automation (ICCA).*
